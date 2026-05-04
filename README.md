@@ -16,7 +16,6 @@ I'm an early-career engineer with a strong focus on **Physical Design (PD)** and
 ### 🛠 Tools & Tech
 
 ![Verilog](https://img.shields.io/badge/Verilog-1589C9?style=for-the-badge&logo=verilog&logoColor=white)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-0A507A?style=for-the-badge&logo=verilog&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Tcl](https://img.shields.io/badge/Tcl-E34F26?style=for-the-badge&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
