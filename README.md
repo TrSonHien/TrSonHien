@@ -11,6 +11,7 @@ I'm an early-career engineer with a strong focus on **Physical Design (PD)** and
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:transonhien9@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/transonhien2006/) 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nnot.cringe?locale=vi_VN)
 
 ### 🛠 Tools & Tech
 
