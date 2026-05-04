@@ -20,3 +20,4 @@ I'm an early-career engineer with a strong focus on **Physical Design (PD)** and
 ![Tcl](https://img.shields.io/badge/Tcl-E34F26?style=for-the-badge&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash/Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-11AB00?style=for-the-badge&logo=vim&logoColor=white)
