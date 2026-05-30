@@ -4,7 +4,7 @@
 
 I'm an early-career engineer with a strong focus on **Physical Design (PD)** and the complete RTL-to-GDSII flow. I enjoy automating EDA workflows, exploring advanced SoC architectures, and solving complex timing and layout challenges. 
 
-🌱 **Currently focusing on:** Physical Design flows (Cadence Innovus, Cadence Genus, OpenLane2) & Tcl Scripting.
+🌱 **Currently focusing on:** Physical Design flows (Cadence Innovus, Cadence Genus, OpenLane2) & Tcl Scripting.  
 🔭 **Learning more about:** Advanced Static Timing Analysis (STA), SystemVerilog, and Linux System Administration.
 
 ### 📫 Connect with me
